@@ -1,38 +1,45 @@
-# Day 5 — Risks and Action Items
+# Day 5 — Technical Decision and Business Value
 
 ## 1. Daily Passage
 
-> Before we finish, I would like to mention one risk. The testing period is shorter than we originally planned, so we may not have enough time to check every scenario. From my perspective, the safest option is to complete the most important tests first. If we find a serious issue, we may need to change the schedule. Let me summarize the action items. The project team will prepare a list of important tests by tomorrow morning. I will review the list and confirm the test order. We will meet again on Thursday to check the progress and discuss any new risks. Please let us know if the schedule changes. Thank you. I think we are clear on the next steps.
+> Before we choose between two monitoring options, I would like to discuss the business value. The first option is simple and less expensive. The second provides more reports, but it takes longer to set up. From my perspective, we should start with the simpler option and measure the result. Our main KPI, or key performance indicator, will be the time needed to detect a service problem. We should also consider ROI, or return on investment, before adding more features. Are we aligned on this approach? Let me summarize what we agreed. I will prepare a small test, and the project team will review the result on Friday. We will make the final decision after the review. Please let me know if I missed anything.
 
-## 2. Key Meeting Phrases
+## 2. Key Meeting and Business Phrases
 
-- `I would like to mention one risk.` — 我想说明一个风险。
-- `From my perspective, the safest option is ...` — 在我看来，最安全的方案是……
-- `Let me summarize the action items.` — 我来总结一下行动项。
-- `Please let us know if ...` — 如果……请通知我们。
-- `I think we are clear on the next steps.` — 我认为下一步已经明确了。
+- `I would like to discuss the business value.` — 我想讨论一下商业价值。
+- `From my perspective, we should ...` — 在我看来，我们应该……
+- `We should also consider ...` — 我们还应该考虑……
+- `Are we aligned on this approach?` — 我们是否对这个方案达成一致？
+- `Let me summarize what we agreed.` — 我来总结一下我们达成的共识。
 
-## 3. Replace and Practice
+## 3. Abbreviations in Context
 
-- `the testing period is shorter` → `one task is delayed` / `some information is missing`
-- `the most important tests` → `the highest-priority tasks`
-- `by tomorrow morning` → `by the end of the day`
-- `meet again on Thursday` → `send an update on Friday`
+| Abbreviation | Full form | 中文含义 | Usage note |
+|---|---|---|---|
+| KPI | Key performance indicator | 关键绩效指标 | 常用于会议、报告和计划中衡量目标或结果。 |
+| ROI | Return on investment | 投资回报率 | 常用于比较方案、预算和商业价值。 |
 
-## 4. Questions
+## 4. Replace and Practice
 
-1. What is the risk?
-2. What does the speaker recommend?
-3. Who will prepare the list?
-4. When will the team check progress again?
+- `two monitoring options` → `two testing tools` / `two cloud designs`
+- `less expensive` → `easier to operate` / `faster to deliver`
+- `the time needed to detect a problem` → `the test success rate` / `the response time`
+- `review the result on Friday` → `discuss the result next Monday` / `send feedback by EOD`
 
-## 5. Retelling Challenge
+## 5. Questions
 
-用一分钟描述一个虚构风险，然后确认负责人、截止时间和下一次检查时间。
+1. How are the two options different?
+2. Which option does the speaker recommend?
+3. What KPI will the team use?
+4. Why should the team consider ROI?
 
-## 6. Review Checklist
+## 6. Retelling Challenge
+
+比较两个虚构IT方案，说明建议、KPI、ROI、负责人和最终决策时间。
+
+## 7. Review Checklist
 
 - Day 1 — Read and repeat: [ ]
-- Day 2 — Replace the risk and schedule: [ ]
+- Day 2 — Replace the options and KPI: [ ]
 - Day 4 — Retell without notes: [ ]
-- Day 7 — Summarize action items in a mock meeting: [ ]
+- Day 7 — Compare two options in a mock meeting: [ ]

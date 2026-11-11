@@ -24,18 +24,20 @@ The lesson must contain:
 
 1. A title and one meeting skill.
 2. A 100–150 word passage at approximately A2–B1 level.
-3. Three to five reusable meeting phrases with Chinese explanations.
-4. Four substitution exercises using generic information.
-5. Four comprehension questions.
-6. A one-minute retelling challenge.
-7. Day 1, Day 2, Day 4, and Day 7 review checkboxes.
+3. Three to five reusable meeting or business phrases with Chinese explanations.
+4. At least one common business sentence pattern.
+5. Zero to two widely recognized abbreviations when they fit naturally; give the full English form, Chinese meaning, normal channel, and any ambiguity or tone warning.
+6. Four substitution exercises using generic information.
+7. Four comprehension questions.
+8. A one-minute retelling challenge.
+9. Day 1, Day 2, Day 4, and Day 7 review checkboxes.
 
 Learning balance:
 
 - Reuse approximately 70% familiar language from recent lessons.
 - Introduce approximately 30% new language.
 - Prefer clear, short, reusable sentences over complex grammar.
-- Rotate among status updates, clarification, planning, testing, generic deployment, troubleshooting, risks, discussion, and action items.
+- Rotate among status updates, clarification, planning, testing, generic deployment, troubleshooting, risks, priorities, timelines, decisions, polite disagreement, discussion, and action items.
 - Do not repeat the same primary topic on consecutive days.
 
 After writing:

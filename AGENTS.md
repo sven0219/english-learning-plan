@@ -31,7 +31,7 @@ Do not include real:
 
 - Daily passages should be 100–150 words at approximately A2–B1 level.
 - Each passage should cover one fictional Internet or IT workplace meeting scenario.
-- Include 3–5 reusable meeting phrases, substitution practice, comprehension questions, a retelling task, and spaced-review prompts.
+- Include 3–5 reusable meeting or business phrases, substitution practice, comprehension questions, a retelling task, and spaced-review prompts.
 - Reuse approximately 70% familiar language and introduce approximately 30% new language.
 - Optimize for clear workplace communication, not complex grammar or native-like accents.
 
@@ -42,6 +42,16 @@ Do not include real:
 - Keep scenarios technically plausible but simple enough for language practice.
 - Treat “work-related” as a subject-area requirement only. Never use real work materials, facts, names, systems, timelines, metrics, errors, or events as input, even after anonymization.
 - Balance reusable meeting language with a small amount of practical Internet and IT vocabulary.
+
+### Business English and abbreviations
+
+- Include common business communication for priorities, timelines, ownership, budgets, decisions, risks, negotiation, stakeholder alignment, polite disagreement, follow-up, and action items.
+- Every lesson should include at least one reusable business sentence pattern. Add one or two common abbreviations only when they fit the scenario naturally.
+- When an abbreviation first appears in a lesson, provide its full English form and a Chinese explanation.
+- Explain whether an expression is mainly used in speech, email, or instant messaging, and note tone risks where relevant. For example, `ASAP` can sound demanding without context.
+- Explain ambiguous abbreviations in context. For example, `POC` may mean `point of contact` or `proof of concept`, while `ETA` may refer to arrival, completion, or the next update.
+- Use only widely recognized, vendor-neutral abbreviations such as `FYI`, `EOD`, `ETA`, `TBD`, `TBC`, `ASAP`, `OOO`, `PTO`, `KPI`, `ROI`, `SLA`, `BAU`, and `WIP`.
+- Never invent, copy, or include company-specific or team-specific abbreviations.
 
 ## Repository Workflow
 

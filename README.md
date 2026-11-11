@@ -20,8 +20,20 @@ A practical learning system for speaking English in Internet and IT workplace me
 - 监控、性能、故障排查和事件复盘
 - 信息安全、访问控制、风险和变更管理
 - 技术项目计划、状态汇报和行动项确认
+- 商务沟通、优先级、预算、时间线、决策和跨团队协作
 
 “与工作相关”仅指主题和沟通技能相关。所有场景必须从零虚构，不得使用、改写、脱敏或影射任何真实公司、项目、系统、会议或事件。
+
+## Business English and Abbreviations
+
+除互联网和IT词汇外，每日课程还应自然加入常见商务表达，例如提出建议、确认优先级、讨论截止时间、推动决策、礼貌表达不同意见和总结后续行动。课程也会逐步介绍 `FYI`、`EOD`、`ETA`、`TBD`、`ASAP`、`KPI`、`ROI` 和 `SLA` 等常见缩写。
+
+- 缩写第一次出现时必须同时写出英文全称和中文含义。
+- 说明缩写更适合口语、邮件还是即时消息，以及可能的语气问题。
+- 对 `POC` 等存在多个含义的缩写，必须结合上下文解释，不能单独死记。
+- 不使用任何公司或团队内部自创的简称。
+
+常见表达和缩写见 [`phrasebook/business-communication.md`](phrasebook/business-communication.md)。
 
 ## Start Here
 
@@ -50,7 +62,7 @@ A practical learning system for speaking English in Internet and IT workplace me
 ├── study-plan.md            # 12周学习计划
 ├── progress.md              # 每日和每周进度
 ├── lessons/                 # 每日短文和练习
-├── phrasebook/              # 可复用的会议句型
+├── phrasebook/              # 可复用的会议、商务句型和缩写
 ├── prompts/                 # 安全的每日课程生成提示
 └── templates/               # 每日练习、会前准备、会后复盘模板
 ```
