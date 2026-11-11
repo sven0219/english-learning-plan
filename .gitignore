@@ -1,0 +1,8 @@
+.DS_Store
+
+# Keep private work notes and raw recordings out of this public repository.
+private/
+recordings/
+*.m4a
+*.mp3
+*.wav
