@@ -30,10 +30,18 @@ Do not include real:
 ## Learning Content
 
 - Daily passages should be 100–150 words at approximately A2–B1 level.
-- Each passage should cover one fictional workplace meeting scenario.
+- Each passage should cover one fictional Internet or IT workplace meeting scenario.
 - Include 3–5 reusable meeting phrases, substitution practice, comprehension questions, a retelling task, and spaced-review prompts.
 - Reuse approximately 70% familiar language and introduce approximately 30% new language.
 - Optimize for clear workplace communication, not complex grammar or native-like accents.
+
+### Internet and IT topic scope
+
+- Focus lessons on generic software development, APIs, application testing, cloud services, infrastructure, networking, databases, DevOps, CI/CD, releases, deployments, rollbacks, monitoring, performance, troubleshooting, incident reviews, information security, access control, change management, or technical project planning.
+- Use vendor-neutral terms such as `the cloud platform`, `the source code repository`, `the test environment`, and `the monitoring system`.
+- Keep scenarios technically plausible but simple enough for language practice.
+- Treat “work-related” as a subject-area requirement only. Never use real work materials, facts, names, systems, timelines, metrics, errors, or events as input, even after anonymization.
+- Balance reusable meeting language with a small amount of practical Internet and IT vocabulary.
 
 ## Repository Workflow
 

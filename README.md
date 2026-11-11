@@ -1,14 +1,27 @@
 # English Learning Plan
 
-A practical learning system for speaking English in workplace meetings.
+A practical learning system for speaking English in Internet and IT workplace meetings.
 
-这个仓库的目标不是系统学习所有英语知识，而是训练在工作会议中完成以下任务：
+这个仓库的目标不是系统学习所有英语知识，而是通过互联网和IT领域的虚构场景，训练在工作会议中完成以下任务：
 
 - 汇报进度、问题、风险和下一步
 - 听不懂时主动要求重复或解释
 - 回答常见追问并表达简单意见
 - 确认负责人、截止时间和行动项
 - 用简单、准确的英语完成一至两分钟脱稿表达
+
+## Content Focus — Internet and IT
+
+每日短文应围绕通用的互联网或IT工作主题，例如：
+
+- 软件开发、代码评审、API和应用测试
+- 云服务、基础设施、网络和数据库
+- DevOps、CI/CD、发布、部署和回滚
+- 监控、性能、故障排查和事件复盘
+- 信息安全、访问控制、风险和变更管理
+- 技术项目计划、状态汇报和行动项确认
+
+“与工作相关”仅指主题和沟通技能相关。所有场景必须从零虚构，不得使用、改写、脱敏或影射任何真实公司、项目、系统、会议或事件。
 
 ## Start Here
 
@@ -44,7 +57,7 @@ A practical learning system for speaking English in workplace meetings.
 
 ## Public Repository Safety
 
-这个仓库是公开仓库。所有练习必须是从零创作的完全虚构、通用职场场景，不能改写或脱敏真实工作内容：
+这个仓库是公开仓库。所有练习必须是从零创作的完全虚构、通用互联网或IT职场场景，不能改写或脱敏真实工作内容：
 
 - 不记录公司内部项目名、域名、IP、集群、Namespace或工单详情。
 - 不记录密码、Token、Secret、证书或其他凭据。
