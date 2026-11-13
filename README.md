@@ -40,9 +40,8 @@ A practical learning system for speaking English in Internet and IT workplace me
 1. 阅读 [`goals.md`](goals.md)，了解目标和衡量标准。
 2. 按照 [`study-plan.md`](study-plan.md) 每天练习约30分钟。
 3. 从 [`lessons/week-01/day-01-weekly-status-update.md`](lessons/week-01/day-01-weekly-status-update.md) 开始第一周课程。
-4. 每次练习后更新 [`progress.md`](progress.md)。
-5. 真实会议前后使用 [`templates/`](templates/) 中的准备和复盘模板。
-6. 第一周之后，使用 [`prompts/generate-daily-lesson.md`](prompts/generate-daily-lesson.md) 生成新的每日课程。
+4. 真实会议前后使用 [`templates/`](templates/) 中的准备和复盘模板。
+5. 第一周之后，使用 [`prompts/generate-daily-lesson.md`](prompts/generate-daily-lesson.md) 生成新的每日课程。
 
 ## Daily Learning Loop
 
@@ -60,7 +59,6 @@ A practical learning system for speaking English in Internet and IT workplace me
 .
 ├── goals.md                 # 学习目标和衡量标准
 ├── study-plan.md            # 12周学习计划
-├── progress.md              # 每日和每周进度
 ├── lessons/                 # 每日短文和练习
 ├── phrasebook/              # 可复用的会议、商务句型和缩写
 ├── prompts/                 # 安全的每日课程生成提示

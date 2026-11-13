@@ -10,7 +10,7 @@
 | 4 | [Access review clarification](week-01/day-04-asking-for-clarification.md) | 澄清范围、期限和语气 | `FYI`, `ASAP` |
 | 5 | [Technical decision and business value](week-01/day-05-risks-and-action-items.md) | 比较方案、衡量价值和总结行动项 | `KPI`, `ROI` |
 
-完成每篇课程后按 Day 1、2、4、7 复习。周末不增加新短文：脱稿复述本周课程，解释10个缩写，并完成一次模拟会议和 [`../progress.md`](../progress.md) 周复盘。
+完成每篇课程后按 Day 1、2、4、7 复习。周末不增加新短文：脱稿复述本周课程，解释10个缩写，并完成一次模拟会议和口头周复盘。
 
 ## Week 2 — Alignment, Ownership, and Follow-Up
 
